@@ -1,0 +1,4 @@
+Este é um arquivo de texto de exemplo.
+Ele contém várias palavras para contagem.
+O objetivo é contar quantas palavras existem neste arquivo.
+A contagem deve ignorar espaços em branco extras. Ok!

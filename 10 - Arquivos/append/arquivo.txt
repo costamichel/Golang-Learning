@@ -1,0 +1,3 @@
+Esta linha é padrão do arquivo.
+Esta é uma linha adicionada
+Esta é uma linha adicionada

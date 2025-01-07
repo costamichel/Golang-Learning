@@ -1,0 +1,4 @@
+Arquivo de teste para leitura.
+Linha 2.
+Linha 3
+Linha 4
